@@ -8,7 +8,7 @@ if (c==true){
     alert('Makasih')
 }
 
-var d=new Date()
+/*var d=new Date()
 
 var weekday= new
 Array("Senin ","Selasa ","Rabu ","Kamis ","Jum'at ","Sabtu ",
@@ -19,4 +19,4 @@ Array("Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","Septem
 document.write(weekday[d.getDay()]+' ')
 document.write(d.getDate()+' ')
 document.write(monthname[d.getMonth()]+' ')
-document.write(d.getFullYear())
+document.write(d.getFullYear())*/
